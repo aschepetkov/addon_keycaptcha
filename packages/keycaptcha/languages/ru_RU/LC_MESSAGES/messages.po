@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Localization of add-on kaycaptcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-24 23:37+0400\n"
+"PO-Revision-Date: 2013-06-24 23:37+0400\n"
+"Last-Translator: Антон <schepetkov@gmail.com>\n"
+"Language-Team: Concrete5 Russia <support@concrete5russia.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _;t;t2;tc\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../controller.php:1
+#: ../../../models/system/captcha/types/keycaptcha/controller.php:1
+msgid "Access Denied."
+msgstr "Доступ запрещен."
+
+#: ../../../controller.php:9
+#: ../../../controller.php:20
+msgid "Keycaptcha"
+msgstr "Keycaptcha"
+
+#: ../../../controller.php:13
+msgid "Protect your site from spam with KeyCaptcha plugin"
+msgstr "Защитите свой сайт от спама с помощью плагина Keycaptcha"
+
+#: ../../../elements/system/captcha/keycaptcha/form.php:17
+msgid "Private key"
+msgstr "Private key"
+
+#: ../../../elements/system/captcha/keycaptcha/form.php:24
+#, php-format
+msgid "You can get the private key from <a target=\"_blank\" href=\"%s\">Keycaptcha</a>."
+msgstr "Получить private key можно на сайте <a target=\"_blank\" href=\"%s\">Keycaptcha</a>."
+
+#: ../../../models/system/captcha/types/keycaptcha/controller.php:26
+msgid "Solve the task."
+msgstr "Выполните задание."
+
